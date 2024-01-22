@@ -2,7 +2,7 @@
 
 Instadapp Fluid is a combination of DeFi protocols with a Liquidity layer at the core. New protocols will be added to the architecture over time with liquidity automatically being available to those newer protocols.
 
-See [docs.md](https://github.com/Instadapp/fluid-contracts/blob/main/docs/docs.md) for technical docs.
+See [docs.md](https://github.com/instadapp/fluid-contracts-public/blob/main/docs/docs.md) for technical docs.
 
 ## Development
 

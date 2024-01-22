@@ -17,7 +17,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/InstaDApp/fluidity-contracts/issues"
+    "url": "git+https://github.com/instadapp/fluid-contracts-public/issues"
   },
   "author": {
     "name": "INSTADAPP LABS LLC",
@@ -25,7 +25,7 @@
   },
   "license": "BUSL-1.1",
   "bugs": {
-    "url": "https://github.com/InstaDApp/fluidity-contracts/issues"
+    "url": "https://github.com/instadapp/fluid-contracts-public/issues"
   },
   "devDependencies": {
     "@ethersproject/providers": "~5.7.2",

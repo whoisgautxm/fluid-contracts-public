@@ -1,0 +1,40 @@
+{
+  "address": "0x1E8423b24808c290ad423B29B8332AA0a7690AdE",
+  "abi": [],
+  "transactionHash": "0x5c09ce863ea46ad0bb21dc0ffd5c24d15afddb2aa87c8d92df6bb70d6d9f7d00",
+  "receipt": {
+    "to": "0x4e59b44847b379578588920cA78FbF26c0B4956C",
+    "from": "0x0Ed35B1609Ec45c7079E80d11149a52717e4859A",
+    "contractAddress": null,
+    "transactionIndex": 111,
+    "gasUsed": "67329",
+    "logsBloom": "0x00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+    "blockHash": "0x68e1d2d16dc6e02d4260b4e3fec0d273296e065004db9f49ca25535e5d6a1469",
+    "transactionHash": "0x5c09ce863ea46ad0bb21dc0ffd5c24d15afddb2aa87c8d92df6bb70d6d9f7d00",
+    "logs": [],
+    "blockNumber": 19010671,
+    "cumulativeGasUsed": "8719014",
+    "status": 1,
+    "byzantium": true
+  },
+  "args": [],
+  "numDeployments": 2,
+  "solcInputHash": "09a079e077119cab353a74c16e3e263d",
+  "metadata": "{\"compiler\":{\"version\":\"0.8.21+commit.d9974bed\"},\"language\":\"Solidity\",\"output\":{\"abi\":[],\"devdoc\":{\"kind\":\"dev\",\"methods\":{},\"version\":1},\"userdoc\":{\"kind\":\"user\",\"methods\":{},\"version\":1}},\"settings\":{\"compilationTarget\":{\"contracts/mocks/emptyImplementation.sol\":\"EmptyImplementation\"},\"evmVersion\":\"paris\",\"libraries\":{},\"metadata\":{\"bytecodeHash\":\"ipfs\",\"useLiteralContent\":true},\"optimizer\":{\"enabled\":true,\"runs\":10000000},\"remappings\":[]},\"sources\":{\"contracts/mocks/emptyImplementation.sol\":{\"content\":\"// SPDX-License-Identifier: BUSL-1.1\\npragma solidity 0.8.21;\\n\\ncontract EmptyImplementation {}\\n\",\"keccak256\":\"0x832b4eea5d5c68bf231ad90fcac25e6a316489bc08dfc4df7f608a6022ddb642\",\"license\":\"BUSL-1.1\"}},\"version\":1}",
+  "bytecode": "0x6080604052348015600f57600080fd5b50603f80601d6000396000f3fe6080604052600080fdfea2646970667358221220997e73d0f2f77253474857287f09815421ce93a70cb1da2d1c1a5fce997a1af564736f6c63430008150033",
+  "deployedBytecode": "0x6080604052600080fdfea2646970667358221220997e73d0f2f77253474857287f09815421ce93a70cb1da2d1c1a5fce997a1af564736f6c63430008150033",
+  "devdoc": {
+    "kind": "dev",
+    "methods": {},
+    "version": 1
+  },
+  "userdoc": {
+    "kind": "user",
+    "methods": {},
+    "version": 1
+  },
+  "storageLayout": {
+    "storage": [],
+    "types": null
+  }
+}
